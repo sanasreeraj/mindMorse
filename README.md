@@ -1,4 +1,4 @@
-# 🧠 MindMorse
+# MindMorse
 
 **MindMorse** is an iOS app that enables silent, offline Morse code communication using touch gestures, haptic feedback, and sound — built to enhance accessibility for people with speech or hearing impairments.
 
